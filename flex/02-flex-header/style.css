@@ -17,11 +17,13 @@
 .left-links ul {
   display: flex;
   justify-content: flex-start;
+  gap: 10px;
 }
 
 .right-links ul {
   display: flex;
   justify-content: flex-end;
+  gap: 10px;
 }
 
 ul {
