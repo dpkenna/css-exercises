@@ -12,11 +12,11 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
+  margin: 0px 0px 32px 0px;
 }
 
 .items-container {
   display: flex;
-  justify-content: space-between;
 }
 
 .item {
