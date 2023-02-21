@@ -18,6 +18,7 @@ img {
 .items-container {
   display: flex;
   gap: 52px;
+  justify-content: center;
 }
 
 .item {
