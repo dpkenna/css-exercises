@@ -12,13 +12,11 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  align-self: center;
 }
 
 .left-links ul {
   display: flex;
   justify-content: flex-start;
-  align-self: center;
 }
 
 .right-links ul {
