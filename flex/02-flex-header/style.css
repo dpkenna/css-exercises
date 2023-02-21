@@ -29,7 +29,7 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
-  margin: 0px;
+  margin: 0px 10px;
   padding: 0px;
 }
 
