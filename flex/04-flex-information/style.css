@@ -17,6 +17,7 @@ img {
 
 .items-container {
   display: flex;
+  gap: 52px;
 }
 
 .item {
