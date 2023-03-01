@@ -46,6 +46,10 @@ body {
   margin: 0px 20px;
 }
 
+.text {
+  margin-right: 8px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
