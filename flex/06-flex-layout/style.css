@@ -40,6 +40,13 @@ ul {
   justify-content: space-between;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
