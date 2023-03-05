@@ -30,3 +30,7 @@ a {
   text-decoration: none;
   color: #5a5a5a;
 }
+
+ul {
+  list-style-type: none;
+}
